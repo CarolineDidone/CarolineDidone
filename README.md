@@ -26,10 +26,10 @@ Estou passando por uma transição de carreira, iniciando os estudos na área em
 
 <div align="">
    <h2>🛠 Estatísticas do GitHub</h2>
- ***
+
    <!-- Estatísticas do GitHub -->
    <img src="https://github-readme-stats.vercel.app/api?username=LeticiaLemeHub&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats">
- 
+ <br>
    <!-- Linguagens mais usadas -->
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaLemeHub&layout=compact&theme=transparent" alt="Top Linguagens">
 </div>
