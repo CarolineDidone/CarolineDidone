@@ -23,13 +23,3 @@ Estou passando por uma transição de carreira, iniciando os estudos na área em
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-didon%C3%A9/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarolineDidone)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:caroline@didone.com.br)
-
-<div align="">
-   <h2>🛠 Estatísticas do GitHub</h2>
-
-   <!-- Estatísticas do GitHub -->
-   <img src="https://github-readme-stats.vercel.app/api?username=LeticiaLemeHub&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats">
- <br>
-   <!-- Linguagens mais usadas -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaLemeHub&layout=compact&theme=transparent" alt="Top Linguagens">
-</div>
