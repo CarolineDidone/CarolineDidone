@@ -1,4 +1,5 @@
 ### Caroline Didoné - Desenvolvimento Front-End
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Caroline+Didoné++-++Desenvolvimento+Front+-+End)](https://git.io/typing-svg)
 ---
 
 ## 💫 Sobre mim
