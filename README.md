@@ -1,3 +1,6 @@
+### Caroline Didoné - Desenvolvimento Front-End
+---
+
 ## 💫 Sobre mim
 Oi, pessoal! Bem-vindos :)<br><br>Estou em transição de carreira e iniciando meus estudos na área de desenvolvimento web. Atualmente curso Sistemas para Internet e participo de um projeto de iniciação científica na faculdade.<br>Paralelamente, venho realizando cursos voltados para o front-end, buscando me aperfeiçoar e conquistar minha primeira oportunidade na área.<br><br>Sou bastante comprometida com meus estudos, prezo pela organização e adoro conhecer pessoas novas!
 
