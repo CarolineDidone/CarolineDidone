@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=362BC1&width=435&lines=Caroline+Didon%C3%A9;Desenvolvimento+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=362BC1&width=435&lines=Caroline+Didon%C3%A9)](https://git.io/typing-svg)
 
 ## 💫 Sobre mim
 
