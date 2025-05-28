@@ -2,7 +2,8 @@
 
 ## 💫 Sobre mim
 
-Oi, pessoal! Bem-vindos :)<br><br>Estou em transição de carreira e atualmente curso Sistemas para Internet, onde também participo de um projeto de iniciação científica. Tenho direcionado meus estudos para a área de desenvolvimento web, com foco em front-end, e, paralelamente, venho me aprofundando em temas relacionados a UX/UI e QA (Quality Assurance).<br><br>Sou comprometida com meu aprendizado, gosto de explorar diferentes áreas dentro da tecnologia e estou em busca da minha primeira oportunidade na área. Prezo pela organização, tenho facilidade para aprender e adoro conhecer pessoas novas!
+Oi, pessoal! Bem-vindos :)<br><br>Estou realizando uma transição de carreira, sempre tive interesse por tecnologia, e há algum tempo decidi mergulhar de vez nesse universo. Atualmente curso Sistemas para Internet, onde também participo de um projeto de iniciação científica pela universidade.<br><br>Venho direcionando meus estudos principalmente para o desenvolvimento web, explorando também áreas complementares como testes de software (QA) e UX/UI Design. Esses conhecimentos têm ampliado minha visão sobre o ciclo de desenvolvimento de produtos digitais.<br><br>Atualmente, busco uma oportunidade que me permita continuar aprendendo na prática e contribuir com a equipe e os projetos. Tenho me desenvolvido com disciplina, paciência e determinação, características que têm guiado minha jornada e me motivam a crescer cada vez mais na área.
+
 
 ## 🌐 Contatos
 
